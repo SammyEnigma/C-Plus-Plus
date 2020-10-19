@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md59", null ],
-      [ "Features", "index.html#autotoc_md60", null ],
-      [ "Documentation", "index.html#autotoc_md61", null ],
-      [ "Contributions", "index.html#autotoc_md62", null ]
+      [ "Overview", "index.html#autotoc_md60", null ],
+      [ "Features", "index.html#autotoc_md61", null ],
+      [ "Documentation", "index.html#autotoc_md62", null ],
+      [ "Contributions", "index.html#autotoc_md63", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -47,7 +47,7 @@ var NAVTREE =
           [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md15", null ],
           [ "Documentation", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md16", null ],
           [ "Test", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md17", null ],
-          [ "Typical structure of a program:", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
+          [ "Typical structure of a program", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
           [ "New File Name guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md19", null ],
           [ "New Directory guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md20", null ],
           [ "Commit Guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md21", null ]
@@ -82,6 +82,7 @@ var NAVTREE =
       [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ]
     ] ],
     [ "Prime factorization", "d7/d7f/section.html", null ],
+    [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
@@ -122,11 +123,11 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d26/binary__search__tree_8cpp.html#a1ca1e6aad9a9e45c1d21a7c8f61bccc3",
-"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1",
-"d7/d83/trie__tree_8cpp.html",
-"da/d5a/class_complex.html#ae1e03712837450549e0c9b4017533a41",
-"dc/dc5/paranthesis__matching_8cpp.html#ade525d33459755a32ba21e1b6910ff21",
-"functions_func.html"
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md39",
+"d7/d77/class_edge.html#ae017097dd21663a9dc3387c23789c92e",
+"d9/dfd/comb__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a494d39f6c367071d1fd31b3c1caf1a7d",
+"df/dfb/minimax_8cpp.html#a78540bcb5ef3473b2348cbc34748ec50"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
