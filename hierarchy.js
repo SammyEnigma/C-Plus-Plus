@@ -14,9 +14,9 @@ var hierarchy =
     [ "double_hashing::Entry", "d9/dde/structdouble__hashing_1_1_entry.html", null ],
     [ "linear_probing::Entry", "db/d19/structlinear__probing_1_1_entry.html", null ],
     [ "FenwickTree", "dd/d91/class_fenwick_tree.html", null ],
-    [ "Graph", "da/d9a/class_graph.html", null ],
     [ "graph::is_graph_bipartite::Graph", "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html", null ],
-    [ "graph::Graph", "dc/d61/classgraph_1_1_graph.html", [
+    [ "Graph", "da/d9a/class_graph.html", null ],
+    [ "graph::Graph< T >", "dc/d61/classgraph_1_1_graph.html", [
       [ "graph::RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", null ]
     ] ],
     [ "hash_chain", "dd/d1c/classhash__chain.html", null ],
@@ -32,17 +32,18 @@ var hierarchy =
     [ "MinHeap", "d2/d05/class_min_heap.html", null ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],
+    [ "math::ncr_modulo_p::NCRModuloP", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html", null ],
     [ "machine_learning::neural_network::NeuralNetwork", "d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html", null ],
+    [ "Node", "db/d8b/struct_node.html", null ],
     [ "data_structures::Node", "d9/d49/structdata__structures_1_1_node.html", null ],
     [ "node< Kind >", "d5/da1/structnode.html", null ],
-    [ "Node", "db/d8b/struct_node.html", null ],
     [ "node< Type >", "d5/da1/structnode.html", null ],
     [ "geometry::jarvis::Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ],
     [ "Point", "d8/dc8/struct_point.html", null ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "Queue", "dc/db5/struct_queue.html", null ],
     [ "queue< Kind >", "db/da9/classqueue.html", null ],
-    [ "Queue_Array", "d0/dd2/class_queue___array.html", null ],
+    [ "Queue", "dc/db5/struct_queue.html", null ],
+    [ "data_structures::queue_using_array::Queue_Array", "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", null ],
     [ "range_queries::heavy_light_decomposition::SG< X >", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html", [
       [ "range_queries::heavy_light_decomposition::HLD< X >", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", null ]
