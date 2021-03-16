@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md68", null ],
-      [ "Features", "index.html#autotoc_md69", null ],
-      [ "Documentation", "index.html#autotoc_md70", null ],
-      [ "Contributions", "index.html#autotoc_md71", null ]
+      [ "Overview", "index.html#autotoc_md69", null ],
+      [ "Features", "index.html#autotoc_md70", null ],
+      [ "Documentation", "index.html#autotoc_md71", null ],
+      [ "Contributions", "index.html#autotoc_md72", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -123,17 +123,18 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"cpp/io/manip/boolalpha.html",
-"cpp/string/wide/iswupper.html",
-"d1/dc7/linear__probing__hash__table_8cpp.html#a2de838f453df67b72411eefb7faf833c",
-"d3/dce/linkedlist__implentation__usingarray_8cpp.html#a92e0c1bb3b270143881e36b5fea8a60d",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32",
-"d6/dd3/ode__midpoint__euler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97",
-"d8/d95/vector__ops_8hpp.html#abf136b863d804899647f46eeb2e1392b",
-"da/d5a/class_complex.html#ac38437c10eb798f176c384a695171b90",
-"dc/d61/classgraph_1_1_graph.html#a190c0eb4739b6a8dfc1c3f684e66d937",
-"de/dab/ncr__modulo__p_8cpp.html"
+"annotated.html",
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d1/df3/hash__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d4/d48/hamming__distance_8cpp.html#a40ba9fe8b5df5c268f0c7d677ff2fe80",
+"d5/d91/namespacesorting.html#a8fe6bac9e03f58abcc2ce26ef3de1b5f",
+"d7/d35/matrix__exponentiation_8cpp.html#a35b7c98af53ad2ec18658679ad7d43de",
+"d8/d99/connected__components__with__dsu_8cpp.html#ae91ed94113c56191b75fe45f688d6e62",
+"da/d9a/class_graph.html",
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#acc6cfdcc9d6e5170340abae63234a442",
+"de/dc3/fibonacci__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+""
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
